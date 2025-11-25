@@ -4,8 +4,6 @@
 >>>>>>> origin/main
 .env
 
-app/
-
 data/
 *.CSV
 
