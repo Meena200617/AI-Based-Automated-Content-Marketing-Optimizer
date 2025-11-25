@@ -307,7 +307,7 @@ Complete UI for interacting with all modules:
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/springboardmentor587-star/AI-Based-Automated-Content-Marketing-Optimizer.git
+git clone https://github.com/Meena200617/AI-Based-Automated-Content-Marketing-Optimizer
 cd AI-Content-Marketing-Optimizer
 ```
 
@@ -427,7 +427,7 @@ The **AutoRetrainer** also saves:
 ## 👥 Contributors
 
 ### 👨‍💼 Project Lead  
-- **Charan Teja Mangali** — Lead Developer, System Architect & Mentor
+- **Gurram Meenakshi** — Lead Developer, System Architect & Mentor
 
 ### 🎓 Student Contributors  
 - **Student Name 1** — AI/ML Research Assistant  
